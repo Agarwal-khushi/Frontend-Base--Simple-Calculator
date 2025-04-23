@@ -1,0 +1,27 @@
+div{
+    background-color: blueviolet;
+}
+h1{
+    text-align:  center;
+    background-color: cornflowerblue;
+}
+h2{
+    background-color: aquamarine;
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+.mx-auto{
+    max-width: auto;
+
+}
+.flex{
+  display:flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.center{
+    align-items: center;
+}
